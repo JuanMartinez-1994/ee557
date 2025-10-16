@@ -1,0 +1,21 @@
+
+===== USC EE557 Fall 2025 - Project 1 =====
+Name: Juan Martinez
+Email: juanamar@usc.edu
+
+Always Taken Predictor
+Total Prediction: 4.73482e+07
+Prediction Rate: 0.462286
+
+2-bit Global Predictor
+Total Prediction: 4.73482e+07
+Prediction Rate: 0.499445
+
+Bimodal Predictor
+Total Prediction: 4.73482e+07
+Prediction Rate: 0.786226
+
+Correlated Predictor
+Total Prediction: 4.73482e+07
+Prediction Rate: 0.896717
+=============================================
